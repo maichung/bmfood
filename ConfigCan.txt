@@ -1,0 +1,2 @@
+HamCan|Port|BaudRate|DataBits
+2|COM5|9600|8

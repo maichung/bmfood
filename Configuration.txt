@@ -1,0 +1,10 @@
+COLUMN COUPLING|COLUMN PARAMETERS
+Conn_ins|Data Source=172.16.3.21;Initial Catalog=BMQuanLySanXuat;Level Security=97;
+Conn_out|Data Source=113.161.144.16;Initial Catalog=BMQuanLySanXuat;Level Security=97;
+172.16.3.21|113.161.144.16
+MAIN|0.0.263
+NhapXuatVatTu|1.0.0.39
+QuanLyChanNuoi|1.0.0.240
+KetNoi|1.0.0.14
+Images|2.0.0.13
+Report|2.0.0.25
